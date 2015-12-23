@@ -1,0 +1,3 @@
+admin:admin:Admin
+thomas:thomas:Kunde
+nico:nico:Kunde
